@@ -1,1 +1,1 @@
-Esta es mi practica en clase sobre git.
+Esta es mi practica en clase sobre Git y GitHub.
